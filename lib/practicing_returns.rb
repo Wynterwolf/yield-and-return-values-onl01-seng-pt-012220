@@ -8,4 +8,3 @@ def hello(array)
   end
 end
 
-binding.pry
